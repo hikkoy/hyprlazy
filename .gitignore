@@ -1,0 +1,13 @@
+# Backup файли
+*.backup
+*.bak
+
+# Тимчасові файли редакторів
+*.swp
+*.swo
+*~
+.*.swp
+
+# OS файли
+.DS_Store
+Thumbs.db
