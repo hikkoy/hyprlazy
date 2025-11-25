@@ -1,6 +1,6 @@
 # HYPRlazy
 
-##Install
+## Install
 ```bash
 git clone https://github.com/YOUR_USERNAME/dotfiles.git ~/dotfiles
 cd ~/dotfiles
@@ -8,7 +8,7 @@ chmod +x install.sh
 ./install.sh
 ```
 
-##UPdate
+## UPdate
 ```bash
 cd ~/dotfiles
 git pull
